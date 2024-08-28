@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/home/mike/Desktop/ALX/Ecommerce BookStore/venv/bin/python" "$0" "$@"
-' '''
+#!/home/mike/Desktop/ALX/Ecommerce_BookStore/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
